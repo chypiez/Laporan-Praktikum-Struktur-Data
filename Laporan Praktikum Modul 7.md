@@ -1,4 +1,4 @@
-# <h1 align="center">Laporan Praktikum Modul 6 - Implementasi Abstract Data Type (ADT) Stack Menggunakan Representasi Array dan Pointer
+# <h1 align="center">Laporan Praktikum Modul 7 - Implementasi Abstract Data Type (ADT) Stack Menggunakan Representasi Array dan Pointer
 <p align="center">Assyifa Zahra - 109082500196 
 
 ## **Dasar Teori**
